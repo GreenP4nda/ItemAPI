@@ -1,0 +1,8 @@
+name: ItemAPI
+author: Green_Panda
+main: at.green_panda.utilities.itemapi.ItemAPI
+
+version: 1.0
+api-version: 1.17
+
+description: Simple API for ItemStack creation and editing
